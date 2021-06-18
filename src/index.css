@@ -1,0 +1,35 @@
+.numbers {
+
+    background-color: gray;
+    border:none;
+    color: black;
+    width: 64px;
+    height: 64px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+
+.operators {
+
+    background-color: orange;
+    border:none;
+    color: white;
+    width: 64px;
+    height: 64px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+
+.disp {
+
+    background-color: black;
+    color: white; 
+    text-align: right;
+    vertical-align:middle;
+    width: 256px;
+    height:32px;   
+}
